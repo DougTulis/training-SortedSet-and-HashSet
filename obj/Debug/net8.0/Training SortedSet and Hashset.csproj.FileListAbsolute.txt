@@ -1,0 +1,14 @@
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\obj\Debug\net8.0\Training SortedSet and Hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\obj\Debug\net8.0\Training SortedSet and Hashset.AssemblyInfoInputs.cache
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\obj\Debug\net8.0\Training SortedSet and Hashset.AssemblyInfo.cs
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\obj\Debug\net8.0\Training SortedSet and Hashset.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\bin\Debug\net8.0\Training SortedSet and Hashset.exe
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\bin\Debug\net8.0\Training SortedSet and Hashset.deps.json
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\bin\Debug\net8.0\Training SortedSet and Hashset.runtimeconfig.json
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\bin\Debug\net8.0\Training SortedSet and Hashset.dll
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\bin\Debug\net8.0\Training SortedSet and Hashset.pdb
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\obj\Debug\net8.0\Training SortedSet and Hashset.dll
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\obj\Debug\net8.0\refint\Training SortedSet and Hashset.dll
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\obj\Debug\net8.0\Training SortedSet and Hashset.pdb
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\obj\Debug\net8.0\Training SortedSet and Hashset.genruntimeconfig.cache
+C:\Users\Família\source\repos\Training SortedSet and Hashset\Training SortedSet and Hashset\obj\Debug\net8.0\ref\Training SortedSet and Hashset.dll

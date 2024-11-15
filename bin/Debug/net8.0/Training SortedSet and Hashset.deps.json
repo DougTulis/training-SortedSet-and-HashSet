@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Training SortedSet and Hashset/1.0.0": {
+        "runtime": {
+          "Training SortedSet and Hashset.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Training SortedSet and Hashset/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
